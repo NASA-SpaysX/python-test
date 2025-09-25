@@ -1,4 +1,4 @@
 # Студентам: напишите тут свои print()
 # Пример:
 print("Hello, world!")
-print(45)
+print(42)
